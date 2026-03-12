@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "your_base58_encoded_private_key_here",
+    "another_base58_encoded_private_key_here"
+  ]
+}
